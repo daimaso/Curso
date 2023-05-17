@@ -14,3 +14,9 @@ M5 - 07 - Regresión.ipynb: Explorarás el concepto de regresión en el contexto
 
 M5 - 10 - Matplotlib y Seaborn.ipynb
 
+M4 - 06 - Clases.ipynb
+
+M5 - 04 - Funciones.ipynb
+
+SpaceX - 2 - EDA.ipynb
+
