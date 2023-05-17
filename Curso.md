@@ -11,3 +11,6 @@ Día 3: Miércoles
 M4 - 07 - Numpy 1D.ipynb: Introducción a la biblioteca NumPy en Python, enfocada en trabajar con arreglos unidimensionales. Aprenderás a crear, indexar y manipular arreglos unidimensionales utilizando las funciones y métodos proporcionados por NumPy.
 
 M5 - 07 - Regresión.ipynb: Explorarás el concepto de regresión en el contexto del análisis de datos y el aprendizaje automático. Aprenderás a realizar regresión lineal utilizando Python y bibliotecas como scikit-learn, y comprenderás cómo se pueden utilizar los modelos de regresión para hacer predicciones.
+
+M5 - 10 - Matplotlib y Seaborn.ipynb
+
