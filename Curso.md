@@ -23,3 +23,5 @@ SpaceX - 2 - EDA.ipynb
 M4 - 06 - Clases.ipynb
 
 M6 - 04 - Programación Funcional.ipynb
+
+M6 - 07 - Transformaciones y Acciones sobre RDDs.ipynb
