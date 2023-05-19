@@ -20,3 +20,6 @@ M5 - 04 - Funciones.ipynb
 
 SpaceX - 2 - EDA.ipynb
 
+M4 - 06 - Clases.ipynb
+
+M6 - 04 - Programación Funcional.ipynb
